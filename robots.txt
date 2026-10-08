@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://www.jbsadari.cloud/01041134405/sitemap.xml
